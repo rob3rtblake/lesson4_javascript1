@@ -4,22 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+February, 16th. 2018
 ### Student Name:  
-(First and Last Name)
+Robert Blake
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+javascript Assignment
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/rob3rtblake/lesson4_javascript1.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Github
+2. Javascript
+3. Cloud 9
 
 
 
